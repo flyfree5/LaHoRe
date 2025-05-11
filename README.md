@@ -31,3 +31,16 @@ ESconv dataset
 | LaHoRe-SFT   | 34.4     | 67.1     | 54.8     |
 | LaHoRe-DPO   | **38.0** | **69.5** | **57.6** |
 
+## Citation
+
+
+```bibtex
+@article{LaHoRe,
+      title={Large Language Model Can Be a Foundation for Hidden Rationale-Based Retrieval}, 
+      author={Luo Ji, Feixiang Guo, Teng Chen, Qingqing Gu, Xiaoyu Wang, Ningyuan Xi, Yihong Wang1, Peng Yu, Yue Zhao, Hongyang Lei, Zhonglin Jiang, and Yong Chen},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2412.16615}, 
+}
+```
+
