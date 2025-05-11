@@ -40,6 +40,8 @@ ESconv dataset
       author={Luo Ji, Feixiang Guo, Teng Chen, Qingqing Gu, Xiaoyu Wang, Ningyuan Xi, Yihong Wang1, Peng Yu, Yue Zhao, Hongyang Lei, Zhonglin Jiang, and Yong Chen},
       archivePrefix={arXiv},
       primaryClass={cs.IR},
+      publisher={European Conference on Information Retrieval},
+      year={2025},
       url={https://arxiv.org/abs/2412.16615}, 
 }
 ```
